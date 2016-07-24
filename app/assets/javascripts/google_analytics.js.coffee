@@ -40,4 +40,4 @@ class @GoogleAnalytics
     # your google analytics ID(s) here...
     'UA-81226231-1'
 
-GoogleAnalytics.load()
+#GoogleAnalytics.load()
